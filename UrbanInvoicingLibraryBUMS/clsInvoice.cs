@@ -9,7 +9,7 @@ namespace UrbanInvoicingLibraryBUMS
         int id, custumerId;
         DateTime date;
         bool printed;
-        double sumBrutto, sumNetto, sumMwst;
+        double sumGross, sumNet, sumVat;
 
         #endregion
         #region Konstruktoktor

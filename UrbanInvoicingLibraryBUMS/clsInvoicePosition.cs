@@ -4,8 +4,8 @@ public class clsInvoicePosition
 {
     #region Attribute
     int id, invoiceId, typeId, artikelId;
-    string bemerkung;
-    double brutto, netto, mwst, rabat;
+    string comment;
+    double gross, net, vat, discount;
 
     clsInvoice invoice;
     clsType type;

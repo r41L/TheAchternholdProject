@@ -7,7 +7,7 @@ namespace UrbanInvoicingLibraryBUMS
         #region Attributes
         int id;
         string name;
-        double mswtSatz;
+        double vatRate;
         double price;
         double squareMeter;
         #endregion
