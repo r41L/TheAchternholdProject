@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Classes",
+    "\\Dokumentation",
+    "\\Forms",
+    "\\UrbanInvoicing"
   ],
   "SelectedNode": "\\UrbanInvoicing.sln",
   "PreviewInSolutionExplorer": false
