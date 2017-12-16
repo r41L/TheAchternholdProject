@@ -1,13 +1,20 @@
 ﻿using System;
 
-public class clsType
+namespace UrbanInvoicingLibraryBUMS
 {
-	public clsType()
-	{
+    public class clsType
+    {
+        #region Attribut
         int id;
         int multiplier;
         string name;
         bool isSquarmeterRelevant;
         bool isRoomRelevant;
-	}
+        #endregion
+
+        #region Konstrucktor
+        public clsType()
+        { }
+        #endregion
+    }
 }
