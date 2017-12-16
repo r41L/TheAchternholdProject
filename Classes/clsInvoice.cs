@@ -3,7 +3,10 @@
 public class clsInvoice
 {
     #region Attribute
-    int id;
+    int id, custumerId;
+    DateTime date;
+    bool printed; 
+    double sumBrutto, sumNetto, sumMwst;
     
     #endregion
     #region Konstruktoktor
