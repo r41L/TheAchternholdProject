@@ -1,0 +1,1 @@
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\UrbanInvoicing.UWP.csproj;x86

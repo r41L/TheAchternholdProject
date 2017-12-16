@@ -1,0 +1,11 @@
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\UrbanInvoicing.deps.json
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\UrbanInvoicing.dll
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\UrbanInvoicing.pdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.csprojResolveAssemblyReference.cache
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.csproj.CoreCompileInputs.cache
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.App.xaml.g.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.MainPage.xaml.g.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfoInputs.cache
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfo.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.dll
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.pdb
