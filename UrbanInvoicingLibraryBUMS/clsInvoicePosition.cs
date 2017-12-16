@@ -9,8 +9,8 @@ namespace UrbanInvoicingLibraryBUMS
         string bemerkung;
         double brutto, netto, mwst, rabat;
 
-        clsInvoice invoice;
-        clsType type;
+        public clsInvoice invoice {get; set;}
+        clsType
         clsArtikel artikel;
         #endregion
 

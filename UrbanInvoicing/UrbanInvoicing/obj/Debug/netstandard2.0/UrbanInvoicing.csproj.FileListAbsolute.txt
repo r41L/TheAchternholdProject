@@ -9,3 +9,5 @@ C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfo.cs
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.dll
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.pdb
+C:\Users\steph\Source\Repos\TheAchternholdProject\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.dll
+C:\Users\steph\Source\Repos\TheAchternholdProject\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.pdb
