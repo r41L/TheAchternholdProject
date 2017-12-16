@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using System.Threading;
 using Xamarin.Forms;
 
 namespace UrbanInvoicing
@@ -18,7 +18,8 @@ namespace UrbanInvoicing
 
 		protected override void OnStart ()
 		{
-			// Handle when your app starts
+            ThreadStart ThreadStarter = new ThreadStart(StartApp);
+            Thread StartThread = new Thread(ThreadStarter);
 		}
 
 		protected override void OnSleep ()
@@ -30,5 +31,11 @@ namespace UrbanInvoicing
 		{
 			// Handle when your app resumes
 		}
+
+        private void StartApp()
+        {
+            string tmpString = String.Empty;
+            // Test?
+        }
 	}
 }
