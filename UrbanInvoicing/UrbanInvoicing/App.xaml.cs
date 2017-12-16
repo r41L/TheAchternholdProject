@@ -13,13 +13,11 @@ namespace UrbanInvoicing
 		{
 			InitializeComponent();
 
-			MainPage = new UrbanInvoicing.MainPage();
+			MainPage = new MainPage();
 		}
 
 		protected override void OnStart ()
 		{
-            ThreadStart ThreadStarter = new ThreadStart(StartApp);
-            Thread StartThread = new Thread(ThreadStarter);
 		}
 
 		protected override void OnSleep ()
@@ -31,11 +29,5 @@ namespace UrbanInvoicing
 		{
 			// Handle when your app resumes
 		}
-
-        private void StartApp()
-        {
-            string tmpString = String.Empty;
-            // Test?
-        }
 	}
 }

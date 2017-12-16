@@ -23,5 +23,11 @@ namespace UrbanInvoicing.UWP
 
             LoadApplication(new UrbanInvoicing.App());
         }
+
+        private void ButtonInvoiceExport_Click(object sender, RoutedEventArgs e)
+        {
+            InvoiceExport tmpInvoiceExportPage = new InvoiceExport();
+            
+        }
     }
 }

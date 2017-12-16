@@ -204,19 +204,21 @@ namespace UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[5];
-            _typeNameTable[0] = "Xamarin.Forms.Platform.UWP.WindowsPage";
-            _typeNameTable[1] = "Xamarin.Forms.Platform.UWP.WindowsBasePage";
-            _typeNameTable[2] = "Windows.UI.Xaml.Controls.Page";
-            _typeNameTable[3] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[4] = "UrbanInvoicing.UWP.MainPage";
+            _typeNameTable = new string[6];
+            _typeNameTable[0] = "UrbanInvoicing.UWP.InvoiceExport";
+            _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[3] = "Xamarin.Forms.Platform.UWP.WindowsPage";
+            _typeNameTable[4] = "Xamarin.Forms.Platform.UWP.WindowsBasePage";
+            _typeNameTable[5] = "UrbanInvoicing.UWP.MainPage";
 
-            _typeTable = new global::System.Type[5];
-            _typeTable[0] = typeof(global::Xamarin.Forms.Platform.UWP.WindowsPage);
-            _typeTable[1] = typeof(global::Xamarin.Forms.Platform.UWP.WindowsBasePage);
-            _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.Page);
-            _typeTable[3] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[4] = typeof(global::UrbanInvoicing.UWP.MainPage);
+            _typeTable = new global::System.Type[6];
+            _typeTable[0] = typeof(global::UrbanInvoicing.UWP.InvoiceExport);
+            _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[3] = typeof(global::Xamarin.Forms.Platform.UWP.WindowsPage);
+            _typeTable[4] = typeof(global::Xamarin.Forms.Platform.UWP.WindowsBasePage);
+            _typeTable[5] = typeof(global::UrbanInvoicing.UWP.MainPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -251,8 +253,9 @@ namespace UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_WindowsPage() { return new global::Xamarin.Forms.Platform.UWP.WindowsPage(); }
-        private object Activate_4_MainPage() { return new global::UrbanInvoicing.UWP.MainPage(); }
+        private object Activate_0_InvoiceExport() { return new global::UrbanInvoicing.UWP.InvoiceExport(); }
+        private object Activate_3_WindowsPage() { return new global::Xamarin.Forms.Platform.UWP.WindowsPage(); }
+        private object Activate_5_MainPage() { return new global::UrbanInvoicing.UWP.MainPage(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -264,28 +267,35 @@ namespace UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  Xamarin.Forms.Platform.UWP.WindowsPage
-                userType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Xamarin.Forms.Platform.UWP.WindowsBasePage"));
-                userType.Activator = Activate_0_WindowsPage;
+            case 0:   //  UrbanInvoicing.UWP.InvoiceExport
+                userType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_0_InvoiceExport;
+                userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 1:   //  Xamarin.Forms.Platform.UWP.WindowsBasePage
+            case 1:   //  Windows.UI.Xaml.Controls.Page
+                xamlType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 2:   //  Windows.UI.Xaml.Controls.UserControl
+                xamlType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 3:   //  Xamarin.Forms.Platform.UWP.WindowsPage
+                userType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Xamarin.Forms.Platform.UWP.WindowsBasePage"));
+                userType.Activator = Activate_3_WindowsPage;
+                xamlType = userType;
+                break;
+
+            case 4:   //  Xamarin.Forms.Platform.UWP.WindowsBasePage
                 userType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 xamlType = userType;
                 break;
 
-            case 2:   //  Windows.UI.Xaml.Controls.Page
-                xamlType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlSystemBaseType(typeName, type);
-                break;
-
-            case 3:   //  Windows.UI.Xaml.Controls.UserControl
-                xamlType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlSystemBaseType(typeName, type);
-                break;
-
-            case 4:   //  UrbanInvoicing.UWP.MainPage
+            case 5:   //  UrbanInvoicing.UWP.MainPage
                 userType = new global::UrbanInvoicing.UWP.UrbanInvoicing_UWP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Xamarin.Forms.Platform.UWP.WindowsPage"));
-                userType.Activator = Activate_4_MainPage;
+                userType.Activator = Activate_5_MainPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

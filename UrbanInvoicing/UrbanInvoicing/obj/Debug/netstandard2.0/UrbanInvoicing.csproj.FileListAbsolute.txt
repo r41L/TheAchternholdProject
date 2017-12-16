@@ -9,3 +9,6 @@ C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfo.cs
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.dll
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.pdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\Mono.Android.xml

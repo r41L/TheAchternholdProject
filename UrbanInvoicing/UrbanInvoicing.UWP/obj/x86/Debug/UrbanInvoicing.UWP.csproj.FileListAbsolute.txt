@@ -294,3 +294,8 @@ C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\obj\x86\Debug\resources.en-us.resfiles
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\bin\x86\Debug\InvoiceExport.xbf
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\obj\x86\Debug\InvoiceExport.g.i.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\obj\x86\Debug\InvoiceExport.g.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\obj\x86\Debug\InvoiceExport.xaml
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\obj\x86\Debug\InvoiceExport.xbf

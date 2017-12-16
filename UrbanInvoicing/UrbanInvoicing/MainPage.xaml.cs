@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
 namespace UrbanInvoicing
 {
 	public partial class MainPage : ContentPage
@@ -12,6 +13,7 @@ namespace UrbanInvoicing
 		public MainPage()
 		{
 			InitializeComponent();
-		}
-	}
+        }
+
+    }
 }

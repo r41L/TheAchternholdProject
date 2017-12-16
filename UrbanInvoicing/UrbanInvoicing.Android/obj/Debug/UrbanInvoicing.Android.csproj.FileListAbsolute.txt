@@ -28,7 +28,6 @@ C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-obj\Debug\linksrc\System.Data.pdb
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\UrbanInvoicing.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb
@@ -45,6 +44,7 @@ bin\Debug\System.Runtime.Serialization.pdb
 bin\Debug\System.ServiceModel.Internals.pdb
 bin\Debug\Mono.Security.pdb
 bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Data.pdb
 bin\Debug\System.Numerics.pdb
 bin\Debug\System.Transactions.pdb
 bin\Debug\Mono.Data.Tds.pdb
@@ -68,6 +68,7 @@ obj\Debug\linksrc\System.Runtime.Serialization.pdb
 obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 obj\Debug\linksrc\Mono.Security.pdb
 obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Data.pdb
 obj\Debug\linksrc\System.Numerics.pdb
 obj\Debug\linksrc\System.Transactions.pdb
 obj\Debug\linksrc\Mono.Data.Tds.pdb
