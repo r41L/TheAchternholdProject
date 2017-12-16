@@ -3,7 +3,7 @@ using intDatabaseObject;
 
 namespace UrbanInvoicingLibraryBUMS
 {
-    public class clsInvoice : intDatabaseObject
+    public class clsInvoice
     {
         #region Attribute
         int id, custumerId;

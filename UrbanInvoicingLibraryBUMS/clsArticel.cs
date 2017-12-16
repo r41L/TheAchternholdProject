@@ -14,7 +14,7 @@ namespace UrbanInvoicingLibraryBUMS
 
         #region Konstruktor
         public void clsArticel()
-            {   }
+        {   }
         #endregion
     }
 }
