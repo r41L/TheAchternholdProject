@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Classes",
-    "\\Dokumentation",
-    "\\Forms",
-    "\\UrbanInvoicing"
+    "\\UrbanInvoicing",
+    "\\UrbanInvoicingLibraryBUMS"
   ],
-  "SelectedNode": "\\UrbanInvoicing.sln",
+  "SelectedNode": "\\UrbanInvoicingLibraryBUMS\\clsInvoicePosition.cs",
   "PreviewInSolutionExplorer": false
 }
