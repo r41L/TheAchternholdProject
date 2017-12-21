@@ -13,7 +13,9 @@ namespace UrbanInvoicingLibraryBUMS
         #endregion
 
         #region Konstruktor
+#pragma warning disable IDE1006 // Benennungsstile
         public void clsArticel()
+#pragma warning restore IDE1006 // Benennungsstile
         {   }
         #endregion
     }

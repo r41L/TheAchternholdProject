@@ -13,3 +13,12 @@ C:\Users\steph\Source\Repos\TheAchternholdProject\UrbanInvoicing\UrbanInvoicing\
 C:\Users\steph\Source\Repos\TheAchternholdProject\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.pdb
 D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.dll
 D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.pdb
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\UrbanInvoicing.deps.json
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\UrbanInvoicing.dll
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\UrbanInvoicing.pdb
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.csprojResolveAssemblyReference.cache
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.csproj.CoreCompileInputs.cache
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.App.xaml.g.cs
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.MainPage.xaml.g.cs
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfoInputs.cache
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfo.cs

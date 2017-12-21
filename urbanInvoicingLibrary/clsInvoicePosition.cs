@@ -22,13 +22,23 @@ namespace UrbanInvoicingLibraryBUMS
         {
             this.id=pId;
             this.invoiceId = pInvoiceId;
-            this.typeId = pType;
+            this.typeId = pTypeId;
             this.artikelId = pArtikelId;
             this.bemerkung = pBemerkung;
             this.brutto = pBrutto;
             this.netto = pNetto; 
             this.mwst = pMwst; 
             this.rabat = pRabat;
+        }
+
+        protected override void save()
+        {
+            throw new NotImplementedException();
+        }
+
+        protected override void load()
+        {
+            throw new NotImplementedException();
         }
         #endregion
     }

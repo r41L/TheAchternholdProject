@@ -11,8 +11,8 @@ namespace UrbanInvoicingLibraryBUMS
 
         public clsSystemstatus systemstatus { get; set; }
 
-        abstract void save();
-        abstract void load();
-        protected void delete();
+        protected abstract void save();
+        protected abstract void load();
+        protected void delete() { throw new NotImplementedException(); }
     }
 }

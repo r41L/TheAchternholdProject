@@ -1,0 +1,3 @@
+D:\Entwicklung\urbanInvoicingLibrary\obj\Debug\netstandard2.0\urbanInvoicingLibrary.csproj.CoreCompileInputs.cache
+D:\Entwicklung\urbanInvoicingLibrary\obj\Debug\netstandard2.0\urbanInvoicingLibrary.AssemblyInfoInputs.cache
+D:\Entwicklung\urbanInvoicingLibrary\obj\Debug\netstandard2.0\urbanInvoicingLibrary.AssemblyInfo.cs
