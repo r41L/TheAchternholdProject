@@ -6757,24 +6757,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fynn\\.nuget\\packages\\": {},
+    "C:\\Users\\steph\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing.UWP\\UrbanInvoicing.UWP.csproj",
+      "projectUniqueName": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing.UWP\\UrbanInvoicing.UWP.csproj",
       "projectName": "UrbanInvoicing.UWP",
-      "projectPath": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing.UWP\\UrbanInvoicing.UWP.csproj",
-      "packagesPath": "C:\\Users\\Fynn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing.UWP\\obj\\",
+      "projectPath": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing.UWP\\UrbanInvoicing.UWP.csproj",
+      "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
+      "outputPath": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fynn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -6788,8 +6788,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj": {
-              "projectPath": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj"
+            "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj": {
+              "projectPath": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj"
             }
           }
         }

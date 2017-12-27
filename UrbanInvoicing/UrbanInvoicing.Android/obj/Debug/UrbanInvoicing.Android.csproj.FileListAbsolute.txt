@@ -1,10 +1,10 @@
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.csprojResolveAssemblyReference.cache
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\UrbanInvoicing.Android.dll
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\UrbanInvoicing.Android.pdb
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\com.companyname.UrbanInvoicing.apk
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\com.companyname.UrbanInvoicing-Signed.apk
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\UrbanInvoicing.dll
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\UrbanInvoicing.pdb
-C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.csprojResolveAssemblyReference.cache
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.csproj.CoreCompileInputs.cache
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.dll
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.pdb
@@ -18,7 +18,16 @@ C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\res\values\styles.xml
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\R.cs.flag
 C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\uploadflags.txt
-C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\UrbanInvoicing.Android.dll
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\UrbanInvoicing.Android.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\UrbanInvoicing.Android.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb
 bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
@@ -65,3 +74,6 @@ obj\Debug\linksrc\Mono.Data.Tds.pdb
 obj\Debug\linksrc\System.IO.Compression.pdb
 obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
 obj\Debug\linksrc\System.Web.Services.pdb
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.csprojResolveAssemblyReference.cache
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.dll
+D:\Entwicklung\UrbanInvoicing\UrbanInvoicing.Android\obj\Debug\UrbanInvoicing.Android.pdb

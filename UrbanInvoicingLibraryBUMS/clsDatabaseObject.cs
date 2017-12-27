@@ -9,10 +9,10 @@ namespace UrbanInvoicingLibraryBUMS
         DateTime addedAt;
         DateTime editedAt;
 
-        clsSystemstatus systemstatus;
+        public clsSystemstatus systemstatus { get; set; }
 
         abstract void save();
         abstract void load();
-        abstract void delete();
+        protected void delete();
     }
 }
