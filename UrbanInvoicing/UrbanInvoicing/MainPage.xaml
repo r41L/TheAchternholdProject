@@ -8,10 +8,37 @@
             <On Platform="Android, WinPhone, Windows" Value="20" />
         </OnPlatform>
     </ContentPage.Padding>
-    <StackLayout>
-        <Label Text="Enter a Phoneword:" />
-        <Entry x:Name="phoneNumberText" Text="1-855-XAMARIN" />
-        <Button x:Name="translateButon" Text="Translate" />
-        <Button x:Name="callButton" Text="Call" IsEnabled="false" />
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="labelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#a8a8a8" />
+                <Setter Property="FontSize" Value="Small" />
+            </Style>
+            <Style x:Key="fieldStyle" TargetType="Label">
+                <Setter Property="TextColor">
+                    <OnPlatform x:TypeArguments="Color" iOS="Black" Android="White" WinPhone="White" />
+                </Setter>
+                <Setter Property="FontSize" Value="Medium" />
+            </Style>
+            <Style x:Key="fieldView" TargetType="ContentView">
+                <Setter Property="Padding" Value="10,0,0,0" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Spacing="20" Padding="20"
+                         VerticalOptions="Center">
+        <!--<Label Text=" UrbanInvoicing" TextColor="#77D065" Font="Segoe UI Symbol" FontSize="Large" HorizontalOptions="Start"></Label>-->
+        <Button Text="Rechnung Ausgehend" TextColor="White" Clicked="ButtonExportClicked"
+                        BackgroundColor="#77D065" Font="Segoe UI Semibold" FontSize="Large"
+                        />
+        <Button Text="Rechnung Eingehend " TextColor="White" Clicked="ButtonImportClicked"
+                        BackgroundColor="#77D065" Font="Segoe UI Semibold" FontSize="Large"
+                        />
+        <Button Text="Übersicht" TextColor="White"  Clicked="ButtonOverviewClicked"
+                        BackgroundColor="#77D065" Font="Segoe UI Semibold" FontSize="Large"
+                        />
+        <Button Text="Adressbuch" TextColor="White" Clicked="ButtonContactsClicked"
+                        BackgroundColor="#77D065" Font="Segoe UI Semibold" FontSize="Large"
+                        />
     </StackLayout>
 </ContentPage>

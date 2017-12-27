@@ -24,10 +24,28 @@ namespace UrbanInvoicing.UWP
             LoadApplication(new UrbanInvoicing.App());
         }
 
-        private void ButtonInvoiceExport_Click(object sender, RoutedEventArgs e)
+        private void ButtonInvoiceExportClicked_Click(object sender, RoutedEventArgs e)
         {
             InvoiceExport tmpInvoiceExportPage = new InvoiceExport();
             
+        }
+
+        private void ButtonInvoiceImportClicked_Click(object sender, RoutedEventArgs e)
+        {
+            InvoiceExport tmpInvoiceExportPage = new InvoiceExport();
+
+        }
+
+        private void ButtonOverviewClicked_Click(object sender, RoutedEventArgs e)
+        {
+            InvoiceExport tmpInvoiceExportPage = new InvoiceExport();
+
+        }
+
+        private void ButtonContactsClicked_Click(object sender, RoutedEventArgs e)
+        {
+            InvoiceExport tmpInvoiceExportPage = new InvoiceExport();
+
         }
     }
 }

@@ -15,5 +15,24 @@ namespace UrbanInvoicing
 			InitializeComponent();
         }
 
+        async void ButtonExportClicked(object sender, EventArgs args)
+        {
+            await Navigation.PushAsync(new InvoiceExport());
+        }
+
+        async void ButtonImportClicked(object sender, EventArgs args)
+        {
+            await Navigation.PushAsync(new InvoiceImport());
+        }
+
+        async void ButtonOverviewClicked(object sender, EventArgs args)
+        {
+            await Navigation.PushAsync(new Overview());
+        }
+
+        async void ButtonContactsClicked(object sender, EventArgs args)
+        {
+            await Navigation.PushAsync(new Contacts());
+        }
     }
 }

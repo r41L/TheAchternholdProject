@@ -121,11 +121,11 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="2.5.0.121934" />
   </ItemGroup>
-  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\UrbanInvoicing\UrbanInvoicing.csproj">
-      <Project>{31254612-386D-4126-85D5-65F1EF70D6C9}</Project>
+      <Project>{31254612-386d-4126-85d5-65f1ef70d6c9}</Project>
       <Name>UrbanInvoicing</Name>
     </ProjectReference>
   </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
