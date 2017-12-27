@@ -22,3 +22,11 @@ D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoi
 D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.MainPage.xaml.g.cs
 D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfoInputs.cache
 D:\Entwicklung\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.AssemblyInfo.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.Contacts.xaml.g.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.InvoiceExport.xaml.g.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.InvoiceImport.xaml.g.cs
+C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\obj\Debug\netstandard2.0\UrbanInvoicing.Overview.xaml.g.cs

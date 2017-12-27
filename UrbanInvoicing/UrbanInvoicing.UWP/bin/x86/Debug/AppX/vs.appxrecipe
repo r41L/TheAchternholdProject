@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-27T15:22:22.083</Modified>
+      <Modified>2017-12-27T15:33:14.055</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\bin\x86\Debug\UrbanInvoicing.UWP.exe">
       <PackagePath>entrypoint\UrbanInvoicing.UWP.exe</PackagePath>
-      <Modified>2017-12-27T15:22:20.579</Modified>
+      <Modified>2017-12-27T15:33:12.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fynn\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -713,7 +713,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing\bin\Debug\netstandard2.0\UrbanInvoicing.dll">
       <PackagePath>UrbanInvoicing.dll</PackagePath>
-      <Modified>2017-12-27T15:22:14.150</Modified>
+      <Modified>2017-12-27T15:33:07.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -884,11 +884,11 @@
     <AppxPackagedFile Include="C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-27T15:22:21.504</Modified>
+      <Modified>2017-12-27T15:33:13.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fynn\Documents\TheAchternholdProject\GIT\UrbanInvoicing\UrbanInvoicing.UWP\bin\x86\Debug\Core\UrbanInvoicing.UWP.exe">
       <PackagePath>UrbanInvoicing.UWP.exe</PackagePath>
-      <Modified>2017-12-27T15:22:22.074</Modified>
+      <Modified>2017-12-27T15:33:14.050</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

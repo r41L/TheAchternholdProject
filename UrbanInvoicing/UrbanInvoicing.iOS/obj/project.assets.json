@@ -750,24 +750,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\steph\\.nuget\\packages\\": {},
+    "C:\\Users\\Fynn\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing.iOS\\UrbanInvoicing.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing.iOS\\UrbanInvoicing.iOS.csproj",
       "projectName": "UrbanInvoicing.iOS",
-      "projectPath": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing.iOS\\UrbanInvoicing.iOS.csproj",
-      "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-      "outputPath": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing.iOS\\UrbanInvoicing.iOS.csproj",
+      "packagesPath": "C:\\Users\\Fynn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fynn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -781,8 +781,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj": {
-              "projectPath": "D:\\Entwicklung\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj"
+            "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj": {
+              "projectPath": "C:\\Users\\Fynn\\Documents\\TheAchternholdProject\\GIT\\UrbanInvoicing\\UrbanInvoicing\\UrbanInvoicing.csproj"
             }
           }
         }
